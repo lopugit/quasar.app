@@ -4,7 +4,7 @@
   "description": "Quasar Framework local CLI",
 	"scripts" : {
 		"push": "git push",
-		"pull": "git pull",
+		"pull": "git pull"
 	},
   "bin": {
     "quasar": "./bin/quasar"
